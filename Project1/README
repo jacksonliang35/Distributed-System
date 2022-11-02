@@ -1,0 +1,62 @@
+CS 425 MP1 Project
+Yuchen Liang (yliang35) and Xilun Jin (xjin12)
+
+Distributed Grep
+
+Files:
+	new_server.py: listen on the server machine
+	new_client.py: fetch the data from the server
+
+Instructions:
+	1. On each machine, go to the folder where new_server.py located and run the following command:
+		# python new_server.py
+	2. Put the log file under the same folder as the new_server.py
+	3. On one of the machine, run the new_client.py. 
+	   It accept 3 arguments: [#machines] [pattern] [file_name]. 
+	   [#machines] is the number of machines you want to run grep. (start from the virtual machine #1)
+	   [pattern] is the grep pattern including the flag. 
+	   [file_name] is the name of the file that grep is running on, excluding the extension and file number (The file extension have to be .log).
+	   e.g. # python new_client 3 'INFO' vm
+
+Outputs:
+	M1: command sent => 'grep ERROR test1.log'
+	M2: command sent => 'grep ERROR test2.log'
+	M1: L8:ERROR [2018-09-01 root : Hi]				/* This is the 
+	M2: L10:ERROR [2018-09-02 root : Hi]				* grep result
+	M1: L15:ERROR [2018-09-01 root : What's up]			*/					
+	-----------
+	M1: total line count 2						/* Line count for every machine
+	M2: total line count 1
+	M3: connection failed						/* Connection failed (also will report the command execution failure where the message is "command execution failed")
+	Total Line Count: 3						/* Totoal line count from all the machines
+
+Testing:
+	1. Go to vm1, vm2 and vm3, run the log_data_generator.py as following
+		# python log_data_generator.py [num] 
+		where [num] is number of the current virtual machine
+	2. start the new_server.py on vm1, vm2 and vm3
+	3. run the test.py
+		# python test.py
+	
+Test Logs:
+	Log format:
+	[Type] [[Time]] [user] : [message]
+	e.g.
+	INFO [2018-09-02] root : Hi
+	
+	1.[Type] can be "ERROR", "WARNING",or "INFO"
+	# Error is rare: [1,2]
+	# Warning is somewhat frequent: 1 - #Error - #Info
+	# Info is frequent: [total_number/2 + 1, total_number -5]
+
+	2. [Time] is "[2018-09-{num}]" where {num} is the number of current virtual machine
+
+	3. [user] can be "root", "user1", or "user2"
+	# root is frequent: [1,total_number]
+	# user1 is only on odd-number virtual machine
+	# user2 is only on even-number virtual machine
+
+	4. [message] can be "Hello", "Hi", or "What's up"
+	   They are randomly distributed
+
+	
