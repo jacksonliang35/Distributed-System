@@ -1,0 +1,46 @@
+# CS425_MP4
+
+> Reference:
+> https://data-flair.training/blogs/install-apache-spark-multi-node-cluster/
+> https://spark.apache.org/docs/2.4.0/streaming-programming-guide.html
+> https://www.tutorialspoint.com/pyspark/pyspark_sparkcontext.htm
+
+# Spark work in a cluster
+## Setup
+### Environment
+1. On master node
+  *  Download http://spark.apache.org/downloads.html
+  *  Edit conf/spark-env.sh
+
+  ```
+  export JAVA_HOME=<path-of-Java-installation> (eg: /usr/lib/jvm/java-7-oracle/)
+  export SPARK_WORKER_CORES=8
+  ```
+  *  Edit conf/slaves
+
+  ```
+  slave01-IP
+  slave02-IP
+  ...
+  ```
+2. On worker node
+  * Download http://spark.apache.org/downloads.html
+
+### Start services
+  On master run
+  ```
+  sbin/start-all.sh
+  ```
+
+## Submit jobs
+```
+bin/spark-submit --master spark://fa18-cs425-g55-01.cs.illinois.edu:7077 test_job.py
+```
+
+## Spark UI
+### Master UI
+http://MASTER-IP:8080/
+### Application UI
+http://MASTER-IP:4040/
+
+

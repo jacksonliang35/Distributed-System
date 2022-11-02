@@ -1,0 +1,800 @@
+CRC: 0x5338AE38  File: complete-cast.list  Date: Sat Dec 19 00:00:00 2015
+
+The following league table lists the top submitters of complete cast data:
+ 
+  No. of |
+  Titles | Name
+  -------|----------------------------------------------
+   68069 | Complete
+   17879 | Complete+Verified
+  -------|----------------------------------------------
+17879|Complete+Verified
+This represents 85948 movies with *known* complete cast data.
+
+Copyright 1994-2001 The Internet Movie Database, Inc. All rights reserved.
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database, Inc (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file  is  Copyright  2001  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further information contact <licensing@imdb.com>
+       
+         -------------------------------------------------------
+   
+    All data and software released by Internet Movie Database, Inc  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader. 
+       
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met: 
+       
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie Database,
+            Inc. for permission. 
+            
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact. 
+            
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database, Inc. 
+            
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files. 
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database, Inc.
+            
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations. 
+       
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges. 
+
+    For further information contact <licensing@imdb.com>
+
+         -------------------------------------------------------
+
+This list records the titles in the movie database for which we believe we
+have complete cast credits. This means that all the actors and actresses listed
+on screen in the credits of the movies (along with their character names if
+given) have been entered into the movie database.
+
+The pupose of the list is to help us track which movies are fully covered and
+allow us to identify areas where we need more help. The list also provides 
+some individual recognition for people who've put a lot of work into supplying
+the movie database and hopefully will encourage more people to submit additions
+on a title by title basis. 
+
+If you have copies of your favourite movies on tape/LD at home, why not help
+to complete the information on them directly from credits of your copy? The 
+new "UPDATE TITLE" interface provides the most straightforward way to add
+data to the movie database on a title by title basis. There are no special 
+formats to use - you simply edit the information in a form you are used to 
+seeing and send it back to the movie mail-server for processing. For a simple
+guide send e-mail with the subject "HELP UPDATE" to <mail-server@imdb.com>
+
+Some notes on the list:
+
+ * Each entry lists a title along with it's completion status. The status can
+   either be "Complete" which means someone has completed the cast entries
+   for that title, or it can be "Complete+Verified" to indicate that someone
+   has also verified the completion from their copy.
+
+ * The league table above includes counts for completions and verifications.
+
+ * In some cases we have more information in the movie database than appears
+   in the credits. The point is to record when all the cast information in
+   the credits has been recorded to save duplicated efforts later.
+
+ * There are probably hundreds of movies in the database which were completed
+   prior to when I began keeping records.
+
+If you have any questions or comments on this list please contact me via e-mail
+at <vertigo@imdb.com>
+
+
+CAST COVERAGE TRACKING LIST
+===========================
+002 operazione Luna (1965)				Complete+Verified
+01-99 (1959)						Complete
+06 (1994)						Complete+Verified
+07 con el 2 delante (Agente: Jaime Bonet) (1966)	Complete
+091 Policía al habla (1960)				Complete
+10,000 BC (2008)					Complete+Verified
+1000 Rosen (1994)					Complete
+1001 Arabian Nights (1959)				Complete
+100 años de perdón (1998)				Complete
+100 dragspel och en flicka (1946)			Complete
+100% English (2006) (TV)				Complete
+100 Girls (2000)					Complete
+100 Greatest Funny Moments (2006) (TV)			Complete
+100 Greatest Stand-Ups (2007) (TV)			Complete
+100 Greatest Toys (2010) (TV)				Complete
+100 Mountains (2008)					Complete
+100 Pro (2001)						Complete
+"100 Questions" (2010) {Are You Open Minded? (#1.2)}	Complete
+"100 Questions" (2010) {Are You Romantic? (#1.3)}	Complete
+"100 Questions" (2010) {Have You Ever Dated a Bad Boy? (#1.4)}	Complete
+"100 Questions" (2010) {Have You Ever Had a One-Night Stand? (#1.6)}	Complete
+"100 Questions" (2010) {What Brought You Here? (#1.1)}	Complete
+100 Rifles (1969)					Complete+Verified
+100 Years of Comedy (1997) (V)				Complete
+100 Years of Horror: Girl Ghouls (1996) (V)		Complete
+100 Years of Horror: Scream Queens (1996) (V)		Complete
+100 Years of Horror: The Aristocrats of Evil (1996) (V)	Complete
+100 Years of the London Palladium (2010) (TV)		Complete
+101 (1989)						Complete
+10 (1979)						Complete+Verified
+101 Dalmatians (1996)					Complete+Verified
+10-54 in Progress (2011)				Complete
+"1066" (2009) {(#1.1)}					Complete
+10 AM (2011)						Complete
+10 Attitudes (2001)					Complete
+10 Days in a Nudist Camp (1952)				Complete
+"10 Minute Tales" (2009) {The Running of the Deer (#1.11)}	Complete
+"10 Minute Tales" (2009) {The Three Kings (#1.7)}	Complete
+"10 Minute Tales" (2009) {Through the Window (#1.8)}	Complete
+"10 O'Clock Live" (2011) {(#1.11)}			Complete
+"10 O'Clock Live" (2011) {(#1.12)}			Complete
+"10 O'Clock Live" (2011) {(#1.1)}			Complete
+"10 O'Clock Live" (2011) {(#1.2)}			Complete
+"10 O'Clock Live" (2011) {(#1.3)}			Complete
+"10 O'Clock Live" (2011) {(#1.4)}			Complete
+"10 O'Clock Live" (2011) {(#1.5)}			Complete
+"10 O'Clock Live" (2011) {(#1.6)}			Complete
+"10 O'Clock Live" (2011) {(#1.7)}			Complete
+"10 O'Clock Live" (2011) {(#1.8)}			Complete
+"10 O'Clock Live" (2011) {(#1.9)}			Complete
+"10 O'Clock Live" (2011) {(#2.1)}			Complete
+"10 O'Clock Live" (2011) {(#2.2)}			Complete
+"10 O'Clock Live" (2011) {(#2.3)}			Complete
+"10 O'Clock Live" (2011) {(#2.4)}			Complete
+$10 Raise (1935)					Complete
+10 Rillington Place (1971)				Complete+Verified
+10 Seconds (2005)					Complete
+10 Things I Hate About You (1999)			Complete+Verified
+10 to Midnight (1983)					Complete+Verified
+11:14 (2003)						Complete+Verified
+'11' (1980)						Complete
+11:32 P.M. (2008)					Complete
+11 Harrowhouse (1974)					Complete+Verified
+12:01 (1993) (TV)					Complete+Verified
+12:01 PM (1990)						Complete
+"1, 2, 3 Go" (1961)					Complete
+125 Rooms of Comfort (1974)				Complete+Verified
+125 rue Montmartre (1959)				Complete+Verified
+125 Years of Wimbledon: You Cannot Be Serious (2011) (TV)	Complete
+12 Angry Men (1957)					Complete+Verified
+12 Angry Men (1997) (TV)				Complete+Verified
+12 Bucks (1998)						Complete
+12 Meter ohne Kopf (2009)				Complete
+12 O'Clock (1958)					Complete
+"12 O'Clock High" (1964) {An Act of War (#1.14)}	Complete
+"12 O'Clock High" (1964) {Big Brother (#2.5)}		Complete
+"12 O'Clock High" (1964) {Follow the Leader (#1.2)}	Complete
+"12 O'Clock High" (1964) {Golden Boy Had Nine Black Sheep (#1.1)}	Complete
+"12 O'Clock High" (1964) {Here's to Courageous Cowards (#1.11)}	Complete
+"12 O'Clock High" (1964) {Show Me a Hero, I'll Show You a Bum (#2.7)}	Complete
+"12 O'Clock High" (1964) {The Hero (#1.32)}		Complete
+"12 O'Clock High" (1964) {The Loneliest Place in the World (#2.1)}	Complete
+"12 O'Clock High" (1964) {The Men and the Boys (#1.3)}	Complete
+12 Rounds (2009)					Complete
+12 Tiny Christmas Tales (2001) (TV)			Complete
+12 to the Moon (1960)					Complete
+"13 East" (1989)					Complete
+13 Fighting Men (1960)					Complete
+13 Ghosts (1960)					Complete+Verified
+13 Going on 30 (2004)					Complete
+13 Lead Soldiers (1948)					Complete
+"13 Queens Boulevard" (1979)				Complete
+13 Rue Madeleine (1947)					Complete+Verified
+13 Seconds (2003) (V)					Complete
+13 Semester (2009)					Complete
+13th Child (2002)					Complete
+1408 (2007)						Complete
+141 perc a befejezetlen mondatból (1975)		Complete+Verified
+1492: Conquest of Paradise (1992)			Complete+Verified
+14 Carrot Rabbit (1952)					Complete
+14 de Fevereiro (a 1 de Abril) (2003)			Complete
+14 Going on 30 (1988) (TV)				Complete
+14 Tage lebenslänglich (1997)				Complete+Verified
+14 Weddings and a Divorce (1997) (V)			Complete
+15 bajo la lona (1959)					Complete
+15 Minutes (2001)					Complete
+15 Minutes (2009)					Complete
+15: The Life and Death of Philip Knight (1993) (TV)	Complete
+15 to Life (2002) (V)					Complete
+15 Unforgettable Hollywood Tragedies (2009) (TV)	Complete
+16 Blocks (2006)					Complete+Verified
+16 Heads and Counting (2008)				Complete
+1776 (1972)						Complete+Verified
+"1788... et demi" (2010) {De la pendaison comme remède à la famine du peuple (#1.5)}	Complete
+"1788... et demi" (2010) {Des désagréments de l'amour et du désir (#1.3)}	Complete
+"1788... et demi" (2010) {Des moeurs au couvent et de leurs éblouissements (#1.4)}	Complete
+"1788... et demi" (2010) {Du bonheur nuptial et de ses révélations inattendues (#1.6)}	Complete
+"1788... et demi" (2010) {Du désastre de se découvrir des cousins éloignés (#1.2)}	Complete
+"1788... et demi" (2010) {Du principe d'Archimède appliqué aux canailles (#1.1)}	Complete
+17 Again (2009)						Complete
+17 and Under (1998)					Complete
+"1-800-Missing" (2003) {72 Hours to Kill (#1.10)}	Complete
+"1-800-Missing" (2003) {A Death in the Family (#3.13)}	Complete
+"1-800-Missing" (2003) {Analysis (#3.9)}		Complete
+"1-800-Missing" (2003) {And the Walls Come Tumbling Down (#3.5)}	Complete
+"1-800-Missing" (2003) {Anything for the Baby: Part 1 (#3.1)}	Complete
+"1-800-Missing" (2003) {Anything for the Baby: Part 2 (#3.2)}	Complete
+"1-800-Missing" (2003) {Basic Training (#1.14)}		Complete
+"1-800-Missing" (2003) {Cop Out (#2.8)}			Complete
+"1-800-Missing" (2003) {Cut (#3.16)}			Complete
+"1-800-Missing" (2003) {Deep Cover (#2.14)}		Complete
+"1-800-Missing" (2003) {Deliverance from Evil (#1.11)}	Complete
+"1-800-Missing" (2003) {Delusional (#1.17)}		Complete
+"1-800-Missing" (2003) {Domestic Bliss (#2.7)}		Complete
+"1-800-Missing" (2003) {Double Take (#3.17)}		Complete
+"1-800-Missing" (2003) {Exposure (#3.18)}		Complete
+"1-800-Missing" (2003) {Father Figure (#1.15)}		Complete
+"1-800-Missing" (2003) {Fugitive (#3.8)}		Complete
+"1-800-Missing" (2003) {Have You Seen This Man? (#3.14)}	Complete
+"1-800-Missing" (2003) {Insomnia (#1.3)}		Complete
+"1-800-Missing" (2003) {In the Midnight Hour (#2.6)}	Complete
+"1-800-Missing" (2003) {I Thought I Knew You (#1.4)}	Complete
+"1-800-Missing" (2003) {John Doe (#2.15)}		Complete
+"1-800-Missing" (2003) {Judgement Day (#2.3)}		Complete
+"1-800-Missing" (2003) {Last Night (#3.7)}		Complete
+"1-800-Missing" (2003) {Last Stop (#2.5)}		Complete
+"1-800-Missing" (2003) {Looking for Mr. Wright (#3.6)}	Complete
+"1-800-Missing" (2003) {Lost Sister (#1.16)}		Complete
+"1-800-Missing" (2003) {M.I.A. (#1.9)}			Complete
+"1-800-Missing" (2003) {Mr. Nobody (#2.11)}		Complete
+"1-800-Missing" (2003) {Never Go Against the Family (#1.6)}	Complete
+"1-800-Missing" (2003) {Off the Grid (#3.4)}		Complete
+"1-800-Missing" (2003) {One Night Stand (#2.2)}		Complete
+"1-800-Missing" (2003) {Paper Anniversary (#2.17)}	Complete
+"1-800-Missing" (2003) {Patient X (#3.11)}		Complete
+"1-800-Missing" (2003) {Phoenix Rising (#2.16)}		Complete
+"1-800-Missing" (2003) {Pilot (#1.1)}			Complete
+"1-800-Missing" (2003) {Pop Star (#2.10)}		Complete
+"1-800-Missing" (2003) {Puzzle Box (#2.9)}		Complete
+"1-800-Missing" (2003) {Resurrection (#2.4)}		Complete
+"1-800-Missing" (2003) {Sea of Love (#2.1)}		Complete
+"1-800-Missing" (2003) {Sisterhood (#3.12)}		Complete
+"1-800-Missing" (2003) {So Shall Ye Reap (#3.19)}	Complete
+"1-800-Missing" (2003) {Spring Break (#3.15)}		Complete
+"1-800-Missing" (2003) {These Dreams Before Me (#1.18)}	Complete
+"1-800-Missing" (2003) {They Come as They Go (#1.2)}	Complete
+"1-800-Missing" (2003) {Thin Air (#1.5)}		Complete
+"1-800-Missing" (2003) {This Is Your Life (#1.7)}	Complete
+"1-800-Missing" (2003) {Ties That Bind (#1.8)}		Complete
+"1-800-Missing" (2003) {Truth or Dare: Part 1 (#2.12)}	Complete
+"1-800-Missing" (2003) {Truth or Dare: Part 2 (#2.13)}	Complete
+"1-800-Missing" (2003) {Try Again (#3.10)}		Complete
+"1-800-Missing" (2003) {Unnatural Disaster (#3.3)}	Complete
+"1-800-Missing" (2003) {Victoria (#1.12)}		Complete
+"1-800-Missing" (2003) {We Are Coming Home (#2.18)}	Complete
+"1-800-Missing" (2003) {White Whale (#1.13)}		Complete
+18.15 Uhr ab Ostkreuz (2006)				Complete+Verified
+1871 (1990)						Complete
+18 Again! (1988)					Complete
+18 Minutes (1935)					Complete
+18 Minutes in Albuquerque (1994) (TV)			Complete
+"18 Wheels of Justice" (2000)				Complete
+1919 (1997)						Complete
+1925 Studio Tour (1925)					Complete
+1941 (1979)						Complete+Verified
+1942: A Love Story (1994)				Complete+Verified
+1955 Motion Picture Theatre Celebration (1955)		Complete
+1969 (1988)						Complete+Verified
+$ (1971)						Complete+Verified
+1999 (1998)						Complete
+1. April 2000 (1952)					Complete+Verified
+1 Out of 7 (2011)					Complete
+1 Phone, 2 Phone, 3 Phone, 4 (2006)			Complete
+"1 ret og 2 vrang" (1969) {(1970-03-16)}		Complete
+"1 ret og 2 vrang" (1969) {(1980-08-30)}		Complete
+"1 ret og 2 vrang" (1969) {(1980-09-13)}		Complete
+1 Stoneybatter (2008)					Complete
+"1st & Ten" (1984) {By the Bulls (Pilot) (#1.1)}	Complete
+20,000 Cheers for the Chain Gang (1933)			Complete
+20,000 dólares por un cadáver (1970)			Complete+Verified
+20,000 Eyes (1961)					Complete
+20,000 Leagues Under the Sea (1916)			Complete
+20000 Leagues Under the Sea (1954)			Complete+Verified
+20,000 Leagues Under the Sea (1985)			Complete
+20,000 Men a Year (1939)				Complete+Verified
+20,000 Years in Sing Sing (1932)			Complete+Verified
+"2000 Malibu Road" (1992)				Complete
+2001: A Space Odyssey (1968)				Complete+Verified
+2001: A Space Travesty (2000)				Complete
+2001 Maniacs (2005)					Complete
+2001 MTV Movie Awards (2001) (TV)			Complete
+2002: The Rape of Eden (1994)				Complete+Verified
+2007: A Modern Hobo (2008) (V)				Complete
+2009 Snipe World Championship (2009) (V)		Complete
+200 Motels (1971)					Complete
+2010 (1984)						Complete+Verified
+2010 Wipe (2010) (TV)					Complete
+2012 (2009/I)						Complete
+2012 - Geht die Welt unter? (2012) (TV)			Complete
+"2012, het jaar nul" (2009)				Complete
+"2012, het jaar nul" (2009) {De codex (#1.12)}		Complete
+"2012, het jaar nul" (2009) {De inbraak (#1.2)}		Complete
+"2012, het jaar nul" (2009) {De ontvoering (#1.1)}	Complete
+"2012, het jaar nul" (2009) {De overdracht (#1.9)}	Complete
+"2012, het jaar nul" (2009) {Felix (#1.3)}		Complete
+"2012, het jaar nul" (2009) {Het dagboek (#1.6)}	Complete
+"2012, het jaar nul" (2009) {Het geheim van de steen (#1.8)}	Complete
+"2012, het jaar nul" (2009) {Naar Mexico (#1.10)}	Complete
+"2012, het jaar nul" (2009) {Object B109 (#1.5)}	Complete
+"2012, het jaar nul" (2009) {Op zoek naar Opa (#1.11)}	Complete
+"2012, het jaar nul" (2009) {Vals beschuldigd (#1.7)}	Complete
+203 kochi (1980)					Complete
+20 Million Miles to Earth (1957)			Complete
+20 Most Horrifying Hollywood Murders (2006) (TV)	Complete
+20 Mule Team (1940)					Complete+Verified
+20 Seconds (2009)					Complete
+20 Spot (2006)						Complete
+20 Years After (2008)					Complete
+21 (1977) (TV)						Complete
+21 (2008)						Complete
+2 1/2 Minuten (1996) (TV)				Complete
+216 Stitches (2009)					Complete
+"21 Beacon Street" (1959)				Complete
+21 Days (1940)						Complete+Verified
+21 Grams (2003)						Complete+Verified
+21 Hours at Munich (1976) (TV)				Complete+Verified
+"21 Jump Street" (1987)					Complete
+"227" (1985)						Complete
+23 1/2 Hours' Leave (1919)				Complete
+23 1/2 Hours Leave (1937)				Complete
+23 (1998)						Complete
+2:37 (2006)						Complete
+23 Paces to Baker Street (1956)				Complete
+23 -- Skidoo (1930)					Complete
+"240-Robert" (1979)					Complete+Verified
+"24" (2001) {Day 7: 10:00 a.m.-11:00 a.m. (#7.3)}	Complete
+"24" (2001) {Day 7: 10:00 p.m.-11:00 p.m. (#7.15)}	Complete
+"24" (2001) {Day 7: 1:00 a.m.-2:00 a.m. (#7.18)}	Complete
+"24" (2001) {Day 7: 1:00 p.m.-2:00 p.m. (#7.6)}		Complete
+"24" (2001) {Day 7: 11:00 a.m.-12:00 p.m. (#7.4)}	Complete
+"24" (2001) {Day 7: 11:00 p.m.-12:00 a.m. (#7.16)}	Complete
+"24" (2001) {Day 7: 12:00 a.m.-1:00 a.m. (#7.17)}	Complete
+"24" (2001) {Day 7: 12:00 p.m.-1:00 p.m. (#7.5)}	Complete
+"24" (2001) {Day 7: 2:00 a.m.-3:00 a.m. (#7.19)}	Complete
+"24" (2001) {Day 7: 2:00 p.m.-3:00 p.m. (#7.7)}		Complete
+"24" (2001) {Day 7: 3:00 a.m.-4:00 a.m. (#7.20)}	Complete
+"24" (2001) {Day 7: 3:00 p.m.-4:00 p.m. (#7.8)}		Complete
+"24" (2001) {Day 7: 4:00 a.m.-5:00 a.m. (#7.21)}	Complete
+"24" (2001) {Day 7: 4:00 p.m.- 5:00 p.m. (#7.9)}	Complete
+"24" (2001) {Day 7: 5:00 a.m.-6:00 a.m. (#7.22)}	Complete
+"24" (2001) {Day 7: 5:00 p.m.-6:00 p.m. (#7.10)}	Complete
+"24" (2001) {Day 7: 6:00 a.m.-7:00 a.m. (#7.23)}	Complete
+"24" (2001) {Day 7: 6:00 p.m.-7:00 p.m. (#7.11)}	Complete
+"24" (2001) {Day 7: 7:00 a.m.-8:00 a.m. (#7.24)}	Complete
+"24" (2001) {Day 7: 7:00 p.m.-8:00 p.m. (#7.12)}	Complete
+"24" (2001) {Day 7: 8:00 p.m.-9:00 p.m. (#7.13)}	Complete
+"24" (2001) {Day 7: 9:00 a.m.-10:00 a.m. (#7.2)}	Complete
+"24" (2001) {Day 7: 9:00 p.m.-10:00 p.m. (#7.14)}	Complete
+"24" (2001) {Day 8: 10:00 a.m.-11:00 a.m. (#8.19)}	Complete
+"24" (2001) {Day 8: 10:00 p.m.-11:00 p.m. (#8.7)}	Complete
+"24" (2001) {Day 8: 1:00 a.m.-2:00 a.m. (#8.10)}	Complete
+"24" (2001) {Day 8: 1:00 p.m.-2:00 p.m. (#8.22)}	Complete
+"24" (2001) {Day 8: 11:00 a.m.-12:00 p.m. (#8.20)}	Complete
+"24" (2001) {Day 8: 11:00 p.m.-12:00 a.m. (#8.8)}	Complete
+"24" (2001) {Day 8: 12:00 a.m.-1:00 a.m. (#8.9)}	Complete
+"24" (2001) {Day 8: 12:00 p.m.-1:00 p.m. (#8.21)}	Complete
+"24" (2001) {Day 8: 2:00 a.m.-3:00 a.m. (#8.11)}	Complete
+"24" (2001) {Day 8: 2:00 p.m.-3:00 p.m. (#8.23)}	Complete
+"24" (2001) {Day 8: 3:00 a.m.-4:00 a.m. (#8.12)}	Complete
+"24" (2001) {Day 8: 3:00 p.m.-4:00 p.m. (#8.24)}	Complete
+"24" (2001) {Day 8: 4:00 a.m.-5:00 a.m. (#8.13)}	Complete
+"24" (2001) {Day 8: 4:00 p.m.-5:00 p.m. (#8.1)}		Complete
+"24" (2001) {Day 8: 5:00 a.m.-6:00 a.m. (#8.14)}	Complete
+"24" (2001) {Day 8: 5:00 p.m.-6:00 p.m. (#8.2)}		Complete
+"24" (2001) {Day 8: 6:00 a.m.-7:00 a.m. (#8.15)}	Complete
+"24" (2001) {Day 8: 6:00 p.m.-7:00 p.m. (#8.3)}		Complete
+"24" (2001) {Day 8: 7:00 a.m.-8:00 a.m. (#8.16)}	Complete
+"24" (2001) {Day 8: 7:00 p.m.-8:00 p.m. (#8.4)}		Complete
+"24" (2001) {Day 8: 8:00 a.m.-9:00 a.m. (#8.17)}	Complete
+"24" (2001) {Day 8: 8:00 p.m.-9:00 p.m. (#8.5)}		Complete
+"24" (2001) {Day 8: 9:00 a.m.-10:00 a.m. (#8.18)}	Complete
+"24" (2001) {Day 8: 9:00 p.m.-10:00 p.m. (#8.6)}	Complete
+24/7 (2005) (V)						Complete
+24 7: Twenty Four Seven (1997)				Complete+Verified
+"24 Hour Panel People" (2011) {(#1.1)}			Complete
+"24 Hour Panel People" (2011) {(#1.2)}			Complete
+"24 Hour Panel People" (2011) {(#1.3)}			Complete
+"24 Hour Panel People" (2011) {(#1.4)}			Complete
+"24 Hour Panel People" (2011) {(#1.5)}			Complete
+24 Hours in London (2000)				Complete
+24 Hours of a Woman's Life (1952)			Complete
+24 in 24 (2009) (TV)					Complete
+25% (2005) (V)						Complete
+25 Most Sensational Hollywood Meltdowns (2008) (TV)	Complete
+25th Hour (2002)					Complete
+"26 Men" (1957) {Border Incident (#1.4)}		Complete
+"26 Men" (1957)						Complete+Verified
+"26 Men" (1957) {Dead Man in Tucson (#1.8)}		Complete+Verified
+"26 Men" (1957) {Incident at Yuma (#1.6)}		Complete
+"26 Men" (1957) {Man on the Run (#1.9)}			Complete
+"26 Men" (1957) {The Bells of St. Thomas (#1.30)}	Complete
+"26 Men" (1957) {The Big Rope (#1.10)}			Complete
+"26 Men" (1957) {The Slater Brothers (#1.7)}		Complete
+"26 Men" (1957) {The Wild Bunch (#1.3)}			Complete
+"26 Men" (1957) {Trade Me Deadly (#1.14)}		Complete
+"26 Men" (1957) {Trouble at Pinnacle Peak (#1.2)}	Complete
+"26 Men" (1957) {Valley of Fear (#1.11)}		Complete
+273 dni ponizej zera (1968)				Complete
+27 Dresses (2008)					Complete
+27 horas (1986)						Complete
+28 Days (2000)						Complete+Verified
+28 Days Later... (2002)					Complete+Verified
+28 Up (1984) (TV)					Complete
+28 Weeks Later (2007)					Complete+Verified
+29 Acacia Avenue (1945)					Complete
+29 Palms (2002)						Complete
+29th Street (1991)					Complete+Verified
+2 Bucks Short (2009)					Complete
+2 Days in the Valley (1996)				Complete+Verified
+2 Fast 2 Furious (2003)					Complete+Verified
+2 secondes (1998)					Complete
+2 Tickets to the Movies (2010)				Complete
+3000 Miles to Graceland (2001)				Complete+Verified
+"3000 scénarios contre un virus" (1994) {Affreux, bêtes et très méchants (#1.22)}	Complete
+"3000 scénarios contre un virus" (1994) {Arnaud et ses copains (#1.11)}	Complete
+"3000 scénarios contre un virus" (1994) {Avant... mais après (#1.21)}	Complete
+"3000 scénarios contre un virus" (1994) {Bavardages en SIDA mineur (#1.20)}	Complete
+"3000 scénarios contre un virus" (1994)			Complete
+"3000 scénarios contre un virus" (1994) {Discussion sur le préservatif entre un père et son fils (#1.16)}	Complete
+"3000 scénarios contre un virus" (1994) {Déshabille-toi que je t'habille (#1.25)}	Complete
+"3000 scénarios contre un virus" (1994) {I love you (#1.27)}	Complete
+"3000 scénarios contre un virus" (1994) {Je t'aime moi non plus (#1.24)}	Complete
+"3000 scénarios contre un virus" (1994) {La chambre (#1.30)}	Complete
+"3000 scénarios contre un virus" (1994) {L'anniversaire (#1.1)}	Complete
+"3000 scénarios contre un virus" (1994) {La pharmacie (#1.29)}	Complete
+"3000 scénarios contre un virus" (1994) {L'appel d'un ami (#1.4)}	Complete
+"3000 scénarios contre un virus" (1994) {La seringue (#1.18)}	Complete
+"3000 scénarios contre un virus" (1994) {La sirène (#1.6)}	Complete
+"3000 scénarios contre un virus" (1994) {La teuf d'enfer (#1.15)}	Complete
+"3000 scénarios contre un virus" (1994) {L'attente (#1.23)}	Complete
+"3000 scénarios contre un virus" (1994) {Le flic (#1.14)}	Complete
+"3000 scénarios contre un virus" (1994) {Le rap du sida (#1.9)}	Complete
+"3000 scénarios contre un virus" (1994) {Le rêve (#1.12)}	Complete
+"3000 scénarios contre un virus" (1994) {Les deux amants (#1.17)}	Complete
+"3000 scénarios contre un virus" (1994) {Le sida, c'est les autres (#1.10)}	Complete
+"3000 scénarios contre un virus" (1994) {Le temps du bonheur (#1.8)}	Complete
+"3000 scénarios contre un virus" (1994) {L'exclusion (#1.3)}	Complete
+"3000 scénarios contre un virus" (1994) {Mort d'un couple (#1.5)}	Complete
+"3000 scénarios contre un virus" (1994) {Mère séropositive (#1.2)}	Complete
+"3000 scénarios contre un virus" (1994) {Poisson rouge (#1.28)}	Complete
+"3000 scénarios contre un virus" (1994) {Préservatif, une preuve d'amour (#1.19)}	Complete
+"3000 scénarios contre un virus" (1994) {Sidapolis (#1.26)}	Complete
+"3000 scénarios contre un virus" (1994) {Vertige de l'amour (#1.13)}	Complete
+"3000 scénarios contre un virus" (1994) {Zozo, le clown (#1.7)}	Complete
+300 Pounds (2007)					Complete
+30 Below Zero (1926)					Complete
+30 Days of Night (2007)					Complete+Verified
+30 Days Until I'm Famous (2004) (TV)			Complete
+30:e november (1995)					Complete
+30 karatów szczescia (1936)				Complete
+30-Love (2008)						Complete
+"30 Rock" (2006) {Black Tie (#1.12)}			Complete
+"30 Rock" (2006) {Blind Date (#1.3)}			Complete
+"30 Rock" (2006) {Cleveland (#1.20)}			Complete
+"30 Rock" (2006) {Corporate Crush (#1.19)}		Complete
+"30 Rock" (2006) {Fireworks (#1.18)}			Complete
+"30 Rock" (2006) {Hard Ball (#1.15)}			Complete
+"30 Rock" (2006) {Hiatus (#1.21)}			Complete
+"30 Rock" (2006) {Jack Meets Dennis (#1.6)}		Complete
+"30 Rock" (2006) {Jack the Writer (#1.4)}		Complete
+"30 Rock" (2006) {Jack-Tor (#1.5)}			Complete
+"30 Rock" (2006) {Pilot (#1.1)}				Complete
+"30 Rock" (2006) {SeinfeldVision (#2.1)}		Complete
+"30 Rock" (2006) {The Aftermath (#1.2)}			Complete
+"30 Rock" (2006) {The Baby Show (#1.9)}			Complete
+"30 Rock" (2006) {The Break-Up (#1.8)}			Complete
+"30 Rock" (2006) {The C Word (#1.14)}			Complete
+"30 Rock" (2006) {The Fighting Irish (#1.17)}		Complete
+"30 Rock" (2006) {The Head and the Hair (#1.11)}	Complete
+"30 Rock" (2006) {The Rural Juror (#1.10)}		Complete
+"30 Rock" (2006) {The Source Awards (#1.16)}		Complete
+"30 Rock" (2006) {Tracy Does Conan (#1.7)}		Complete
+"30 Rock" (2006) {Up All Night (#1.13)}			Complete
+30 Years of 'Last of the Summer Wine' (2003) (TV)	Complete
+3:10 to Yuma (1957)					Complete+Verified
+3:10 to Yuma (2007)					Complete+Verified
+3:15 (1986)						Complete
+3:18 (2005)						Complete
+"31 Days of Oscar" (1995) {(#12.1)} {{SUSPENDED}}	Complete
+"31 Days of Oscar" (1995) {(#13.1)} {{SUSPENDED}}	Complete
+3-2-0 (2002) (V)					Complete
+"32 Brinkburn Street" (2011) {(#1.1)}			Complete
+35 Aside (1996)						Complete
+35 Up (1991) (TV)					Complete+Verified
+3600 Frames (2010)					Complete
+365 Nights in Hollywood (1934)				Complete+Verified
+36 Chowringhee Lane (1981)				Complete
+36 fillette (1988)					Complete
+36 Hours (1953)						Complete
+36 Hours (1965)						Complete+Verified
+36 Hours to Kill (1936)					Complete+Verified
+37°2 le matin (1986)					Complete+Verified
+'38 (1986)						Complete
+39 Times (2007)						Complete
+3 A.M. (1975)						Complete
+3 A.M. (2001)						Complete
+3 Bad Men (1926)					Complete+Verified
+3 Blind Mice (2003)					Complete
+3 Chains o' Gold (1994) (V)				Complete
+3 Dancers (2007)					Complete
+3 Dumb Clucks (1937)					Complete+Verified
+3 Godfathers (1948)					Complete+Verified
+3 in 34 (2006)						Complete
+3 Little Ninjas and the Lost Treasure (1990)		Complete
+3 Men and a Baby (1987)					Complete
+3 Men and a Little Lady (1990)				Complete
+3 Men in a Pub (2008) (V)				Complete
+3-Minute 4-Play (2005)					Complete
+"3 Minute Wonder" (2006) {Puppet Love 1}		Complete
+"3 Minute Wonder" (2006) {Some Thoughts by Karl Pilkington: Life}	Complete
+"3 Minute Wonder" (2006) {Stanley Kubrick's Small Boxes: Callsheet}	Complete
+3 Needles (2005)					Complete
+3 Ninjas (1992)						Complete+Verified
+3 Ninjas: High Noon at Mega Mountain (1998)		Complete
+3 Ninjas Kick Back (1994)				Complete+Verified
+3 Ninjas Knuckle Up (1995)				Complete+Verified
+3 Nuts in Search of a Bolt (1964)			Complete
+3 Ring Circus (1954)					Complete
+3 Ring Wing-Ding (1968)					Complete
+3 Strikes (2000)					Complete
+3 Women (1977)						Complete+Verified
+4000 (2007)						Complete
+4014 (2007)						Complete
+40 (1999)						Complete
+405 (2000)						Complete
+40 años de novios (1963)				Complete
+40 Days and 40 Nights (2002)				Complete
+40 gradi all'ombra del lenzuolo (1976)			Complete
+40 grados a la sombra (1967)				Complete
+40 Guns to Apache Pass (1967)				Complete+Verified
+40 Pounds of Trouble (1962)				Complete
+40 Quadratmeter Deutschland (1986)			Complete
+40 Years on Coronation Street (2000) (TV)		Complete
+41 Bullets (2004)					Complete
+42: Forty Two Up (1998) (TV)				Complete
+42nd Street (1933)					Complete+Verified
+...4 ...3 ...2 ...1 ...morte (1967)			Complete
+44 Inch Chest (2009)					Complete
+44 Minutes: The North Hollywood Shoot-Out (2003) (TV)	Complete+Verified
+4.50 from Paddington (1987) (TV)			Complete
+451 Forte (2000)					Complete
+.45 (2006)						Complete
+45 Fathers (1937)					Complete
+47:an Löken (1971)					Complete
+48 Hrs. (1982)						Complete+Verified
+48 Stunden bis Acapulco (1967)				Complete+Verified
+'49-'17 (1917)						Complete
+49 Up (2005) (TV)					Complete
+4 aventures de Reinette et Mirabelle (1987)		Complete+Verified
+4 Devils (1928)						Complete+Verified
+4D Man (1959)						Complete+Verified
+4 fans fik chancen for at møde 'Vegas folket' på Comedy Zoo i København (2003) (TV)	Complete
+4 for Texas (1963)					Complete+Verified
+4 Little Girls (1997)					Complete
+4 marmittoni alle grandi manovre (1974)			Complete
+4 mosche di velluto grigio (1971)			Complete+Verified
+4: Rise of the Silver Surfer (2007)			Complete
+4th Street Poker (2007)					Complete
+4 Walls (2007)						Complete
+500 Years Later (2005)					Complete
+50/50 (2011)						Complete
+50 Cutest Child Stars: All Grown Up (2005) (TV)		Complete
+50 Films to See Before You Die (2006) (TV)		Complete
+50 Glorious Years: A Royal Celebration (1999) (V)	Complete
+50 Greatest Comedy Catchphrases (2008) (TV)		Complete
+50 Greatest Families (2008) (TV)			Complete
+50 Greatest Magic Tricks (2002) (TV)			Complete
+50 Greatest Plastic Surgery Shockers (2010) (TV)	Complete
+50 Greatest Wedding Shockers (2011) (TV)		Complete
+50 Million Frenchmen (1931)				Complete
+50 Most Shocking Comedy Moments (2006) (TV)		Complete
+50 Years of Bad Sex (2011) (TV)				Complete
+5 (2007)						Complete
+52 Pick-Up (1986)					Complete+Verified
+54 (1998)						Complete+Verified
+55 Days at Peking (1963)				Complete+Verified
+"55 Degrees North" (2004) {(#1.1)}			Complete
+"55 Degrees North" (2004) {(#1.2)}			Complete
+"55 Degrees North" (2004) {(#1.3)}			Complete
+"55 Degrees North" (2004) {(#1.4)}			Complete
+"55 Degrees North" (2004) {(#1.5)}			Complete
+"55 Degrees North" (2004) {(#1.6)}			Complete
+"55 Degrees North" (2004) {(#2.1)}			Complete
+"55 Degrees North" (2004) {(#2.2)}			Complete
+"55 Degrees North" (2004) {(#2.3)}			Complete
+"55 Degrees North" (2004) {(#2.4)}			Complete
+"55 Degrees North" (2004) {(#2.5)}			Complete
+"55 Degrees North" (2004) {(#2.6)}			Complete
+"55 Degrees North" (2004) {(#2.7)}			Complete
+"55 Degrees North" (2004) {(#2.8)}			Complete
+55 Minks (2009)						Complete
+588 rue paradis (1992)					Complete
+5 Against the House (1955)				Complete+Verified
+5 Americans in Prague (2010) (V)			Complete
+5 bambole per la luna d'agosto (1970)			Complete
+5 Card Stud (1968)					Complete+Verified
+5 Dead on the Crimson Canvas (1996)			Complete
+5 de chocolate y 1 de fresa (1968)			Complete
+5 Fingers (1952)					Complete
+5 Millionen suchen einen Erben (1938)			Complete+Verified
+5 Minutes (2005)					Complete
+5 per l'inferno (1969)					Complete
+5 Stunden Angst - Geiselnahme im Kindergarten (1996) (TV)	Complete
+5th Ave Girl (1939)					Complete+Verified
+5 Weeks in a Balloon (1977) (TV)			Complete
+5x2 (2004)						Complete+Verified
+5x5, Voices of Change from the Forests of Indonesia (2008)	Complete
+5 Zimmer, Küche, Bad (1992) (TV)			Complete
+6,000 Enemies (1939)					Complete
+60 Millionen für Phantásien - Wie die 'unendliche Geschichte' ins Kino kam (1984) (TV)	Complete
+60 Seconds to Love (2009)				Complete
+61* (2001) (TV)						Complete+Verified
+633 Squadron (1964)					Complete
+64,000,000 Years Ago (1981)				Complete+Verified
+65, 66 och jag (1936)					Complete
+666: The Demon Child (2004) (V)				Complete
+666: 'The Omen' Revealed (2000) (V)			Complete
+666 - Traue keinem, mit dem Du schläfst! (2002)		Complete
+69 Park Avenue (1985) (V)				Complete
+6 auf See (2000)					Complete
+6 Day Bike Rider (1934)					Complete+Verified
+6 Hours to Live (1932)					Complete
+"704 Hauser" (1994)					Complete
+711 Ocean Drive (1950)					Complete+Verified
+72 metra (2004)						Complete
+75 centilitres de prière (1995)				Complete
+77 Park Lane (1931)					Complete
+"77 Sunset Strip" (1958)				Complete
+7 Deadly Sins (2010) (V)				Complete
+7 Faces of Dr. Lao (1964)				Complete+Verified
+7 kérdés a szerelemröl (és 3 alkérdés) (1969) (TV)	Complete
+"7 Lives Xposed" (2001) {(#1.2)}			Complete
+"7 of 1" (1973) {Open All Hours (#1.1)}			Complete
+7 Plus Seven (1970) (TV)				Complete
+7th Cavalry (1956)					Complete+Verified
+7th Heaven (1927)					Complete
+7 Women (1966)						Complete+Verified
+7 Zwerge (2004)						Complete
+800 Fantasy Lane (1979)					Complete
+808 Latin Heist (2009) {{SUSPENDED}}			Complete
+80 huszár (1978)					Complete
+80 års fødselsdagen (2000) (TV)				Complete
+8½ (1963)						Complete+Verified
+84 Charing Cross Road (1987)				Complete+Verified
+84C MoPic (1989)					Complete+Verified
+"87th Precinct" (1961)					Complete
+87 Topaz (2004)						Complete
+88 Minutes (2007)					Complete+Verified
+88 - Pilgern auf Japanisch (2008)			Complete
+8 Ball Bunny (1950)					Complete
+8-bit (2008)						Complete
+8 femmes (2002)						Complete+Verified
+8 Heads in a Duffel Bag (1997)				Complete+Verified
+8 Mile (2002)						Complete+Verified
+8 Million Ways to Die (1986)				Complete+Verified
+8MM (1999)						Complete+Verified
+"8 Out of 10 Cats" (2005) {(#6.1)}			Complete
+"8 Out of 10 Cats" (2005) {(#6.2)}			Complete
+"8 Out of 10 Cats" (2005) {(#6.3)}			Complete
+"8 Out of 10 Cats" (2005) {(#6.4)}			Complete
+"8 Out of 10 Cats" (2005) {(#6.5)}			Complete
+"8 Out of 10 Cats" (2005) {(#6.6)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.10)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.11)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.12)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.13)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.14)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.1)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.3)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.4)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.5)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.6)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.7)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.8)}			Complete
+"8 Out of 10 Cats" (2005) {(#7.9)}			Complete
+"8 Out of 10 Cats" (2005) {(#8.1)}			Complete
+"8 Out of 10 Cats" (2005) {(#8.2)}			Complete
+"8 Out of 10 Cats" (2005) {(#8.3)}			Complete
+"8 Out of 10 Cats" (2005) {(#8.4)}			Complete
+"8 Out of 10 Cats" (2005) {(#8.5)}			Complete
+"8 Out of 10 Cats" (2005) {(#8.6)}			Complete
+"8 Out of 10 Cats" (2005) {(#8.7)}			Complete
+"8 Out of 10 Cats" (2005) {(#9.1)}			Complete
+"8 Out of 10 Cats" (2005) {(#9.2)}			Complete
+"8 Out of 10 Cats" (2005) {(#9.3)}			Complete
+"8 Out of 10 Cats" (2005) {(#9.4)}			Complete
+"8 Out of 10 Cats" (2005) {(#9.5)}			Complete
+"8 Out of 10 Cats" (2005) {(#9.6)}			Complete
+"8 Out of 10 Cats" (2005) {(#9.7)}			Complete
+"8 Out of 10 Cats" (2005) {Big Brother 9 Special (#7.2)}	Complete
+8 Seconds (1994)					Complete+Verified
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {All I Want for Christmas (#1.12)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Car Trouble (#3.5)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Changes (#3.2)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {C.J.'s Party (#2.20)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {C.J.'s Real Dad (#3.20)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {C.J.'s Temptation (#3.14)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Closure (#3.16)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Consequences (#2.12)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Daddy's Girl (#2.16)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Ditch Day (#3.24)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Finale Part Deux (#2.24)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Finale Part Un (#2.23)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {First Day of School (#3.1)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Freaky Friday (#3.18)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Get Real (#2.11)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Goodbye: Part 1 (#2.4)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Goodbye: Part 2 (#2.5)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Halloween (#3.6)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Let's Keep Going: Part 1 (#2.18)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Let's Keep Going: Part 2 (#2.19)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Mall in the Family (#2.17)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Merry Christmas: The Story of Anne Frank and Skeevy (#2.9)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Mother's Day (#2.21)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {No Right Way (#2.6)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Old Flame (#3.15)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Opposites Attract: Part 1 (#2.13)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Opposites Attract: Part 2 (#2.14)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Opposites Attract: Part 3: Night of the Locust (#2.15)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Out of the Box (#3.4)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Princetown Girl (#3.11)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {School Nurse (#3.3)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Sleepover (#3.23)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The After Party (#3.21)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The First Thanksgiving (#2.8)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The Principal (#2.22)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The Sub (#3.13)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The Teachers Lounge (#3.22)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Torn Between Two Lovers (#3.19)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Vanity Unfair (#3.10)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {VolleyBrawl (#3.17)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Wall of Shame (#1.2)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {What Dad Would Want (#2.7)}	Complete
+"8 Simple Rules... for Dating My Teenage Daughter" (2002) {YMCA (#2.10)}	Complete
+8 to 4 (1981)						Complete
